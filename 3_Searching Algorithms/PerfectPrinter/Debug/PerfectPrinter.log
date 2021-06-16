@@ -1,0 +1,3 @@
+﻿  PerfectPrinter.cpp
+D:\Documents\Desktop\FMI\SecondYear\СДА\Thirt\Thirt_Homework\PerfectPrinter\PerfectPrinter.cpp(31): error C4700: uninitialized local variable 'N' used
+D:\Documents\Desktop\FMI\SecondYear\СДА\Thirt\Thirt_Homework\PerfectPrinter\PerfectPrinter.cpp(37): error C4700: uninitialized local variable 'Q' used

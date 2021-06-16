@@ -1,0 +1,4 @@
+﻿  DonerQueue.cpp
+D:\Documents\Desktop\FMI\SecondYear\СДА\First_Homework\DonerQueue\DonerQueue.cpp(74,16): warning C4018: '<': signed/unsigned mismatch
+D:\Documents\Desktop\FMI\SecondYear\СДА\First_Homework\DonerQueue\DonerQueue.cpp(79,17): warning C4018: '<': signed/unsigned mismatch
+  DonerQueue.vcxproj -> D:\Documents\Desktop\FMI\SecondYear\СДА\First_Homework\Debug\DonerQueue.exe

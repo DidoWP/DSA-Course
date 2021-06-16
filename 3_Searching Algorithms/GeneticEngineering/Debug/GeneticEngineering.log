@@ -1,0 +1,5 @@
+﻿  GeneticEngineering.cpp
+D:\Documents\Desktop\FMI\SecondYear\СДА\Thirt\Thirt_Homework\GeneticEngineering\GeneticEngineering.cpp(26,31): warning C4244: 'initializing': conversion from 'double' to 'unsigned __int64', possible loss of data
+D:\Documents\Desktop\FMI\SecondYear\СДА\Thirt\Thirt_Homework\GeneticEngineering\GeneticEngineering.cpp(40,12): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+D:\Documents\Desktop\FMI\SecondYear\СДА\Thirt\Thirt_Homework\GeneticEngineering\GeneticEngineering.cpp(41,12): warning C4244: 'initializing': conversion from 'unsigned __int64' to 'int', possible loss of data
+  GeneticEngineering.vcxproj -> D:\Documents\Desktop\FMI\SecondYear\СДА\Thirt\Thirt_Homework\Debug\GeneticEngineering.exe

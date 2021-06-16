@@ -1,0 +1,3 @@
+﻿  MinStack.cpp
+D:\Documents\Desktop\FMI\SecondYear\СДА\Fifth_Homework\Fifth_Homework\MinStack\MinStack.cpp(66,4): error C3861: 'push': identifier not found
+D:\Documents\Desktop\FMI\SecondYear\СДА\Fifth_Homework\Fifth_Homework\MinStack\MinStack.cpp(70,21): error C2059: syntax error: ')'
